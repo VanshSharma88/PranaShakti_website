@@ -1,0 +1,49 @@
+*{
+
+}
+.banner{
+    width:100%;
+    height:117vh;
+    background-image: url(homw.png);
+    background-size: cover;
+    background-position: center;
+}
+.navbar{
+        width:100%;
+        margin:auto;
+        padding:55px 0;
+        display: flex;
+        align-items:center;
+        font-weight: bolder;
+        
+        
+        
+        
+}
+.vanshsh{
+    
+    margin-right:100px;
+    color:black;
+
+    
+    
+    transform:translateY(1900%);
+    margin: 0px -1200px;
+    border-radius: 4px;
+    height:22px;
+    width:130px;
+    
+    font-size:large;
+    margin-bottom: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    cursor:pointer;
+    
+}
+.vanshsh:hover{
+    background-color: #fcaaa0;
+}
+
+    
+
+
